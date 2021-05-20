@@ -6,7 +6,8 @@
 - 选择错误提示不清晰问题
 - 支持获取反编译结果 list
 
-# [demo](https://khaomokgai.github.io/vCrontab/dist/index.html)
+![](dist/show.jpg)
+![](dist/show2.jpg)
 
 ## 使用方式
 
